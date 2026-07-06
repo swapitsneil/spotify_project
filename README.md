@@ -46,8 +46,8 @@ Spotify-PostgreSQL-Project/
 ├── sql/
 │   └── spotify_queries.sql
 │
-├── report/
-│   ├── Product_Dissection_Report.pdf
+├── Report/
+│   ├── Product_Dissection.docx
 │   └── er diagram.png
 │
 ├── presentation/
