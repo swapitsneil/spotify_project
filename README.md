@@ -51,7 +51,8 @@ Spotify-PostgreSQL-Project/
 │   └── er diagram.png
 │
 ├── presentation/
-│   └── Spotify_PostgreSQL_Presentation.pptx
+|   ├── queries.pdf
+│   └── Spotify Presentation.pptx
 │
 └── README.md
 ```
